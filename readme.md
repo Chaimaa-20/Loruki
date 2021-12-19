@@ -13,9 +13,9 @@
 ### Project Screenshot
 
 [(Back to top)](#table-of-contents)
-<img src="loruki.png">
-<img src="2.png">
-<img src="3.png">
+<img src="images/loruki.png">
+<img src="images/2.png">
+<img src="images/3.png">
 
 <!-- # Links
 
