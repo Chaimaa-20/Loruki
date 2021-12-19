@@ -5,21 +5,10 @@
 ## Table of contents
 
 - [Overview](#overview)
+- [Description](#description)
   - [Project Screenshot](#screenshot)
   - [Links](#links)
-- [Description](#description)
 - [Author](#author)
-
-### Project Screenshot
-
-[(Back to top)](#table-of-contents)
-<img src="images/loruki.png">
-<img src="images/2.png">
-<img src="images/3.png">
-
-<!-- # Links
-
-[(Back to top)](#table-of-contents) -->
 
 # Project Description
 
@@ -31,3 +20,14 @@ This website was built using
 - CSS Custom Properties
 - CSS Flexbox
 - CSS Grids
+
+### Project Screenshot
+
+[(Back to top)](#table-of-contents)
+<img src="images/loruki.png">
+<img src="images/2.png">
+<img src="images/3.png">
+
+<!-- # Links
+
+[(Back to top)](#table-of-contents) -->
