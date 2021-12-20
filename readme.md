@@ -1,6 +1,6 @@
 <!-- Add banner here -->
 
-# Frontend Developement - Fitness Website
+# Frontend Developement - Loruki
 
 ## Table of contents
 
